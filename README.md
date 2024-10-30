@@ -3,7 +3,6 @@
 I'm a software and machine learning engineer with experience in building robust backends and designing intelligent systems. My journey in tech began with a focus on backend development using Java and Spring Boot, and since then, I've expanded into machine learning, working on projects that bring data-driven insights to life.
 
 
-
 ## 💼 Work Experience
 
 - **Software Engineer**  
@@ -48,7 +47,7 @@ As a lifelong learner, I'm exploring MLOps practices to bridge the gap between m
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StamatisOrfanos&layout=compact&hide=html&theme=dracula)
 
-...
+
 
 
 ## 📫 Let's Connect!
