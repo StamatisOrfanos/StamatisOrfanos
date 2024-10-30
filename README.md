@@ -39,15 +39,16 @@ I'm a software and machine learning engineer with experience in building robust 
 
 
 
-
-
-
 ## 🌱 Currently Learning
 
 As a lifelong learner, I'm exploring MLOps practices to bridge the gap between model development and production.
 
 
+## 📊 Most Used Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StamatisOrfanos&layout=compact&hide=html&theme=dracula)
+
+...
 
 
 ## 📫 Let's Connect!
