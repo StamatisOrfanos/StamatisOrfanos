@@ -2,7 +2,7 @@
 
 I'm a software and machine learning engineer with experience in building robust backends and designing intelligent systems. My journey in tech began with a focus on backend development using Java and Spring Boot, and since then, I've expanded into machine learning, working on projects that bring data-driven insights to life.
 
----
+
 
 ## 💼 Work Experience
 
@@ -11,7 +11,6 @@ I'm a software and machine learning engineer with experience in building robust 
 - **Machine Learning Engineer (Freelance)**  
   Developed and deployed machine learning models for various applications.
 
----
 
 ## 🎓 Education
 
@@ -21,7 +20,6 @@ I'm a software and machine learning engineer with experience in building robust 
 - **Master’s Degree in Artificial Intelligence**  
   Focus: Multi-modal data, reinforcement learning, and smart agent systems.
 
----
 
 ## 🛠 Specialties
 
@@ -39,13 +37,18 @@ I'm a software and machine learning engineer with experience in building robust 
 - **Software Development Practices**  
   - Agile frameworks, basics of AWS CI/CD, MLflow for managing machine learning lifecycle  
 
----
+
+
+
+
 
 ## 🌱 Currently Learning
 
 As a lifelong learner, I'm exploring MLOps practices to bridge the gap between model development and production.
 
----
+
+
+
 
 ## 📫 Let's Connect!
 
