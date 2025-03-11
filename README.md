@@ -76,7 +76,7 @@ I have experience in the **medical AI field**, developing **predictive models** 
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: [Stamatios Orfanos](https://www.linkedin.com/in/stamatis-orfanos-9ba12b1b3/)
+- **LinkedIn**: [Stamatios Orfanos](linkedin.com/in/stamatios-orfanos-9ba12b1b3)
 - **GitHub**: [StamatisOrfanos](https://github.com/StamatisOrfanos)
 
 Thanks for stopping by! 😃
