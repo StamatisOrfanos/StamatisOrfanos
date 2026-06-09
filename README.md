@@ -68,10 +68,4 @@ I have experience in the **medical AI field**, developing **predictive models** 
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StamatisOrfanos&layout=compact&hide=html&theme=dracula)
-
----
-
 Thanks for stopping by! 😃
